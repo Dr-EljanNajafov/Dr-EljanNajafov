@@ -108,6 +108,9 @@ public class AboutMe {
 ![JDBC](https://img.shields.io/badge/-JDBC-007396?style=for-the-badge&logo=jdbc&logoColor=white)
 ![Hibernate ORM](https://img.shields.io/badge/-Hibernate%20ORM-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
+### NoSQL
+![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
+
 ### Framework
 ![Spring](https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
 ![Spring MVC](https://img.shields.io/badge/-Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
