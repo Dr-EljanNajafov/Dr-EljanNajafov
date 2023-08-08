@@ -28,6 +28,7 @@ public class AboutMe {
     public static class Knowledge {
         private List<String> languages;
         private List<String> dataBase;
+        private List<String> noSQL;
         private List<String> frameworks;
         private List<String> tests;
         private List<String> devOps;
@@ -44,6 +45,10 @@ public class AboutMe {
         public List<String> getDataBase() { return dataBase; }
 
         public void setDataBase(List<String> dataBase) { this.dataBase = dataBase; }
+
+        public List<String> getNoSQL() { return noSQL; }
+
+        public void setNoSQL(List<String> noSQL) { this.noSQL = noSQL; }
 
         public List<String> getFrameworks() { return frameworks; }
 
@@ -81,6 +86,7 @@ public class AboutMe {
 
         knowledge.setLanguages(List.of("C", "C++", "Python", "Java"));
         knowledge.setDataBase(List.of("PostgreSQL", "MySQL", "OracleSQL", "JDBC", "Hibernate ORM"));
+        knowledge.setNoSQL(List.of("MongoDB"));
         knowledge.setFrameworks(List.of("Spring MVC", "Spring REST", "Spring Security", "Spring Boot"));
         knowledge.setTests(List.of("JUnit"));
         knowledge.setDevOps(List.of("Docker"));
