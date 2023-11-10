@@ -92,7 +92,7 @@ public class AboutMe {
         knowledge.setDevOps(List.of("Docker"));
         knowledge.setServers(List.of("Apache", "Tomcat"));
         knowledge.setDesign(List.of("JSP", "XAML", "XML", "HTML", "CSS"));
-        knowledge.setOthers(List.of("Linux", "Jira", "Postman", "KALI", "Git", "AOP", "IOC&DI", "Maven", "Gradle", "Flyway"));
+        knowledge.setOthers(List.of("Linux", "Jira", "Postman", "KALI", "Git", "AOP", "IOC&DI", "Maven", "Gradle", "Flyway", "Liquibase"));
 
     }
 }
@@ -152,6 +152,7 @@ public class AboutMe {
 ![Maven](https://img.shields.io/badge/-Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![Gradle](https://img.shields.io/badge/-Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 ![Flyway](https://img.shields.io/badge/Flyway-Red?style=for-the-badge&logo=flyway&logoColor=white)
+![Liquibase](https://img.shields.io/badge/Liquibase-green?style=for-the-badge&logo=liquibase&logoColor=white)
 
 # 📊 GitHub Stats:
 
