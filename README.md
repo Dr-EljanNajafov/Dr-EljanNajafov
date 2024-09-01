@@ -86,13 +86,13 @@ public class AboutMe {
 
         knowledge.setLanguages(List.of("C", "C++", "Python", "Java"));
         knowledge.setDataBase(List.of("PostgreSQL", "MySQL", "OracleSQL", "JDBC", "Hibernate ORM"));
-        knowledge.setNoSQL(List.of("MongoDB"));
-        knowledge.setFrameworks(List.of("Spring MVC", "Spring REST", "Spring Security", "Spring Boot"));
+        knowledge.setNoSQL(List.of("MongoDB", "Redis"));
+        knowledge.setFrameworks(List.of("Spring MVC", "Spring REST", "Spring Security", "Spring Boot", "Spring Data"));
         knowledge.setTests(List.of("JUnit"));
-        knowledge.setDevOps(List.of("Docker"));
+        knowledge.setDevOps(List.of("Docker", "Git"));
         knowledge.setServers(List.of("Apache", "Tomcat"));
         knowledge.setDesign(List.of("JSP", "XAML", "XML", "HTML", "CSS"));
-        knowledge.setOthers(List.of("Linux", "Jira", "Postman", "KALI", "Git", "AOP", "IOC&DI", "Maven", "Gradle", "Flyway", "Liquibase"));
+        knowledge.setOthers(List.of("Linux", "Jira", "Postman", "KALI", "AOP", "IOC&DI", "Maven", "Gradle", "Flyway", "Liquibase"));
 
     }
 }
@@ -116,6 +116,7 @@ public class AboutMe {
 
 ### NoSQL
 ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
+![REDIS](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### Framework
 ![Spring](https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
@@ -123,12 +124,14 @@ public class AboutMe {
 ![Spring REST](https://img.shields.io/badge/-Spring%20REST-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/-Spring%20Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![SPRING DATA](https://img.shields.io/badge/Spring%20Data-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 ### Test
 ![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 
 ### DevOps
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### Servers
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
@@ -146,7 +149,6 @@ public class AboutMe {
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![AOP](https://img.shields.io/badge/-AOP-47A248?style=for-the-badge)
 ![IOC & DI](https://img.shields.io/badge/-IOC%20%26%20DI-4CAF50?style=for-the-badge)
 ![Maven](https://img.shields.io/badge/-Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
