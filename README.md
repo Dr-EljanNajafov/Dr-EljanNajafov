@@ -82,7 +82,7 @@ public class AboutMe {
 
         person.setName("Eljan");
         person.setSurname("Najafov");
-        person.setAge(19);
+        person.setAge(20);
 
         knowledge.setLanguages(List.of("C", "C++", "Python", "Java"));
         knowledge.setDataBase(List.of("PostgreSQL", "MySQL", "OracleSQL", "JDBC", "Hibernate ORM"));
