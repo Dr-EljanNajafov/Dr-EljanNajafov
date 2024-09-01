@@ -84,7 +84,7 @@ public class AboutMe {
         person.setSurname("Najafov");
         person.setAge(20);
 
-        knowledge.setLanguages(List.of("C", "C++", "Python", "Java"));
+        knowledge.setLanguages(List.of("Python", "Java"));
         knowledge.setDataBase(List.of("PostgreSQL", "MySQL", "OracleSQL", "JDBC", "Hibernate ORM"));
         knowledge.setNoSQL(List.of("MongoDB", "Redis"));
         knowledge.setFrameworks(List.of("Spring MVC", "Spring REST", "Spring Security", "Spring Boot", "Spring Data"));
@@ -102,8 +102,6 @@ public class AboutMe {
 # 💻 Tech Stack:
 
 ### Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
 
