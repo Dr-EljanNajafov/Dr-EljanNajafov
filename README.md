@@ -10,7 +10,6 @@ public class AboutMe {
     public static class Person {
         private String name;
         private String surname;
-        private int age;
 
         public String getName() { return name; }
 
@@ -19,10 +18,6 @@ public class AboutMe {
         public String getSurname() { return surname; }
 
         public void setSurname(String surname) { this.surname = surname; }
-
-        public int getAge() { return age; }
-
-        public void setAge(int age) { this.age = age; }
     }
 
     public static class Knowledge {
@@ -36,7 +31,6 @@ public class AboutMe {
         private List<String> design;
         private List<String> others;
         
-
 
         public List<String> getLanguages() { return languages; }
 
@@ -82,7 +76,6 @@ public class AboutMe {
 
         person.setName("Eljan");
         person.setSurname("Najafov");
-        person.setAge(20);
 
         knowledge.setLanguages(List.of("Python", "Java"));
         knowledge.setDataBase(List.of("PostgreSQL", "MySQL", "OracleSQL", "JDBC", "Hibernate ORM"));
